@@ -1,0 +1,27 @@
+html, 
+body,
+#app {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	min-width: 1366px;
+}
+
+.ant-card {
+	margin-bottom: 10px;
+}
+
+.ant-input-search,
+.ant-btn {
+	margin: 5px;
+	margin-bottom: 10px;
+}
+
+.ant-breadcrumb {
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
+.ant-pagination {
+	margin-top: 15px;
+}
