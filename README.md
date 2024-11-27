@@ -1,12 +1,12 @@
-# 阳光救援项目代码库
+# Sunshine Rescue Project 
 
-该项目为阳光救援平台的代码库，致力于开发和维护救援任务管理系统。系统界面设计简洁，功能完善，支持地图显示与实时数据可视化，提升救援效率。
+This project is the codebase for the Sunshine Rescue platform, dedicated to developing and maintaining a rescue task management system. The system features a simple interface design with comprehensive functionality, supporting map displays and real-time data visualization to enhance rescue efficiency.
 
-## 界面可视化
-![界面可视化](figure/visualization.jpg)
+## Interface Visualization
+![Visualization](figure/visualization.jpg)
 
-## 功能描述
-1. **仓库管理与代码维护**：建立和管理项目代码库，确保代码持续更新与维护。
-2. **软件需求规格说明书**：撰写需求文档，明确项目需求和功能实现细节。
-3. **数据库设计**：规划和设计项目数据库表结构，支持数据存储和检索。
-4. **界面原型设计与开发**：使用 Vue、ant-design-vue、ECharts 和百度地图开发前端界面，完成系统原型与前端交互设计。
+## Functional Description
+1. **Repository Management and Code Maintenance**: Establish and manage the project codebase to ensure continuous updates and maintenance.
+2. **Software Requirements Specification**: Draft requirements documentation to define project needs and implementation details.
+3. **Database Design**: Plan and design the database table structure to support data storage and retrieval.
+4. **Interface Prototyping and Development**: Develop the frontend interface using Vue, ant-design-vue, ECharts, and Baidu Maps, completing system prototyping and interactive design.
